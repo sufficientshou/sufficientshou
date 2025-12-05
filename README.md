@@ -1,25 +1,40 @@
+## Hey there 👋
 
+I'm an Information Technology student and an aspiring full-stack web developer.
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+sufficientshou+👋;Welcome+to+my+GitHub+Profile!;Coding+for+fun+%F0%9F%98%8A)](https://git.io/typing-svg)
+Currently, I focus on building web applications using **Laravel** and **MySQL**, while continuously improving my problem-solving skills through **competitive programming** and algorithm practice. I enjoy learning new technologies and creating simple, useful, and efficient solutions.
 
----
-
-I live in **Indonesia 🇮🇩** and doing coding just for fun,  
-currently learning **Javascript** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
+This is a secondary account of **@FajarAbdilah12**, where I share experiments, learning projects, and progress in my development journey.
 
 ---
 
-## 📊 GitHub Stats
+## Tools & Technologies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sufficientshou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufficientshou&layout=compact&theme=tokyonight)
+- Laravel, PHP, MySQL  
+- HTML, CSS, Tailwind CSS  
+- JavaScript (basic – learning in progress)  
+- Git & GitHub  
+- C++ (for competitive programming)  
 
 ---
 
-> 💬 *"Keep learning, keep coding, and make something fun."*
+## What I'm Currently Working On
+
+- Improving full-stack development skills with Laravel  
+- Building small to medium-scale web projects  
+- Practicing competitive programming & data structures  
+- Learning better system design and clean code principles  
+
+---
+
+## A Bit About Me
+
+- 🎓 Information Technology student  
+- 💻 Full-stack development enthusiast  
+- 🧩 Interested in competitive programming  
+- 🚀 Learning step-by-step through real projects  
+- 🎮 Likes exploring new tech & challenges  
+
+---
+
+> *"Still learning, still growing. Every line of code makes me better than yesterday."*  
