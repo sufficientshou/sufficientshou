@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm an Information Technology student and an aspiring full-stack web developer.
+I'm an Informatics student and an aspiring full-stack web developer.
 
 Currently, I focus on building web applications using **Laravel** and **MySQL**, while continuously improving my problem-solving skills through **competitive programming** and algorithm practice. I enjoy learning new technologies and creating simple, useful, and efficient solutions.
 
@@ -12,7 +12,7 @@ This is a secondary account of **@FajarAbdilah12**, where I share experiments, l
 
 - Laravel, PHP, MySQL  
 - HTML, CSS, Tailwind CSS  
-- JavaScript (basic – learning in progress)  
+- JavaScript 
 - Git & GitHub  
 - C++ (for competitive programming)  
 
@@ -22,14 +22,14 @@ This is a secondary account of **@FajarAbdilah12**, where I share experiments, l
 
 - Improving full-stack development skills with Laravel  
 - Building small to medium-scale web projects  
-- Practicing competitive programming & data structures  
+- Practicing competitive programming 
 - Learning better system design and clean code principles  
 
 ---
 
 ## A Bit About Me
 
-- 🎓 Information Technology student  
+- 🎓 Informatics student  
 - 💻 Full-stack development enthusiast  
 - 🧩 Interested in competitive programming  
 - 🚀 Learning step-by-step through real projects  
