@@ -20,8 +20,7 @@ This is a secondary account of **@FajarAbdilah12**, where I share experiments, l
 
 ## What I'm Currently Working On
 
-- Improving full-stack development skills with Laravel  
-- Building small to medium-scale web projects  
+- Improving full-stack development skills with Laravel    
 - Practicing competitive programming 
 - Learning better system design and clean code principles  
 
